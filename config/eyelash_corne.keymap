@@ -104,6 +104,8 @@
 &trans  &out OUT_USB    &out OUT_BLE  &trans        &sys_reset    &bootloader   &trans            &trans          &sys_reset  &bootloader  &trans  &trans  &trans  &trans
                                       &trans        &trans        &trans                                          &trans      &trans       &trans
             >;
+
+            label = "SYS";
         };
     };
 };
