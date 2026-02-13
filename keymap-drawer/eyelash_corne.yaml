@@ -97,7 +97,7 @@ layers:
   - SYS
   - $$mdi:backspace-reverse-outline$$
   - Gui+$$mdi:keyboard-space$$
-  - Gui+$$mdi:keyboard-space$$
+  - Gui+Alt+$$mdi:keyboard-space$$
   SYM:
   - {t: '$$mdi:transfer$$', type: trans}
   - '!'
