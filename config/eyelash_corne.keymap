@@ -46,15 +46,6 @@
         tap-ms = <30>;
     };
 
-    macros {
-        fly: fly {
-            compatible = "zmk,behavior-macro";
-            #binding-cells = <0>;
-            bindings = <&kp NUMBER_1 &kp F3 &kp NUMBER_1 &kp F3 &kp NUMBER_1 &kp F4>;
-            label = "FLY";
-        };
-    };
-
     keymap {
         compatible = "zmk,keymap";
 
